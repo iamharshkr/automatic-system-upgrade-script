@@ -20,7 +20,7 @@ This script automates the process of updating and upgrading a Debian-based Linux
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/automatic-system-upgrade-script.git
+   git clone https://github.com/iamharshkr/automatic-system-upgrade-script.git
 2. Navigate to the directory:
    ```bash
     cd automatic-system-upgrade-script
